@@ -1,13 +1,6 @@
-# Trang Góp Ý - Bệnh Viện Yersin
+# Trang Thông tin - Bệnh Viện ĐK Yersin Nha Trang
 
 Trang web tiếp nhận góp ý cho Bệnh viện Yersin Nha Trang.
-
-## Tính năng
-
-- Nhắn tin góp ý qua Zalo
-- Nhắn tin góp ý qua Messenger
-- Form góp ý trực tuyến
-- Gọi điện trực tiếp
 
 ## Cài đặt
 
